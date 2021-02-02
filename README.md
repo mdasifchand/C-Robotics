@@ -8,7 +8,7 @@ Putting together interesting ideas
     |
     |--------- bin  (output execs, both for application as well as learning, test go in here)
     |
-    |--------- include (project headerfiles) 
+    |--------- include (subpackages) 
     |
     |--------- src (project sourcefiles + main.cpp. People also tend to have it outside but I think this would be good for readability)
     |
