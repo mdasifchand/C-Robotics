@@ -1,0 +1,3 @@
+[submodule "docker/mydockerfiles"]
+	path = docker/mydockerfiles
+	url = https://github.com/mdasifchand/mydockerfiles.git
