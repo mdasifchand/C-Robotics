@@ -1,12 +1,8 @@
 # C-Robotics
 Putting together interesting ideas
-### TODO
+## TODO
 ### Initial implementation would be to start with Monte Carlo Integration using sampling technqiues to calculate integration of a function on GPU's 
-
-
-
-#TODO
-# Determine important alternative cpp packages -> for Visualization, BLAS, logging
+### Determine important alternative cpp packages -> for Visualization, BLAS, logging
 # Organize the project file structure  
     |
     |--------- bin  (output execs, both for application as well as learning, test go in here)
