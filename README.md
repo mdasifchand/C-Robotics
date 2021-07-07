@@ -1,5 +1,8 @@
 # C-Robotics
 Putting together interesting ideas
+### TODO
+### Initial implementation would be to start with Monte Carlo Integration using sampling technqiues to calculate integration of a function on GPU's 
+
 
 
 #TODO
